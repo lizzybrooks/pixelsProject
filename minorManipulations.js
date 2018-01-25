@@ -1,5 +1,5 @@
 //baby pic used in class example is by ms. brooks. cite url for pics found online
-//from 
+//adapted from nataliefreed
 
 var img;
 
@@ -7,7 +7,7 @@ var img;
 function preload() {
   //this relative file path starts in the same folder as your sketch.
   //In other words, in this example, make a folder called images in the same
-  //folder as your sketch file (sketch.js) and then put the image file ("kittens.jpg")
+  //folder as your sketch file (sketch.js) and then put the image file ("jomy.jpg")
   //inside of that.
   img = loadImage("images/jomy.jpg"); 
 }
