@@ -22,6 +22,8 @@ Create your own digital image filter by writing a program to manipulate the pixe
 
 5) And with [this face-tracking example](https://github.com/auduno/clmtrackr). 
 
-6) Write down six ideas for possible filters that you'd like to make. Jot them on a piece of paper. When you have six, add them to the [brainstorm doc](https://github.com/lizzybrooks/pixelsProject/blob/master/brainstorm.md). (If you don't want to share them publicly, you can encrypt them.  
+6) Write down six ideas for possible filters that you'd like to make. Jot them on a piece of paper. When you have six, add them to the [brainstorm doc](https://github.com/lizzybrooks/pixelsProject/blob/master/brainstorm.md). 
+
+
 
 
