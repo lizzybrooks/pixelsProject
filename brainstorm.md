@@ -3,3 +3,4 @@
 
 * Use the * to add an item to the list
 * like this
+* add another bullet point to the list
