@@ -5,3 +5,4 @@
 * like this
 * add another bullet point to the list
 * hash each pixel to just mess up the image
+* make the background rainbow
