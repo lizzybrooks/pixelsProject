@@ -17,3 +17,9 @@
 * mouse controls that follow your hand/body motion
 * encrypt data into images
 * colage of texts, search each word and return the first image
+* static filter, either just granular or granules and distortion
+* kaleidoscope filter
+* inverted colors
+* polaroid filter, mainly saturation and frames
+* polarizing filter
+* overlay two pictures, varying strengths
