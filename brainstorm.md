@@ -8,8 +8,12 @@
 * make the background rainbow
 * add a dilluted checkerboard pattern overlay to image
 * drain image of most of blue color
-* colorize B&W photos in a specific pallet selected/created by the user.
+* colorize B&W photos in a specific pallet selected/created by the user
 * make brighter colors brighter and darker colors darker
 * fuse two images together (the colors of each pixel)
 * fuse three pictures together
 * alternate two images every inch or so, latterally
+* an image messer-upper just make the image look really bad
+* mouse controls that follow your hand/body motion
+* encrypt data into images
+* colage of texts, search each word and return the first image
