@@ -69,3 +69,9 @@
 * The right side is mirrored to the left, and the left to the right
 * Fade from color to B & W
 * Fades from red to blue
+* Make a lick wilmerding tigers face on a camera
+* make a lick wilmerding hat on a face on the camera
+* make a face pop up when you look into the camera
+* code for a crayon picture
+* make a little cool flag in the capera
+* make a reall cool glove on your filter
