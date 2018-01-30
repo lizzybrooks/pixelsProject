@@ -34,3 +34,9 @@
 * hide parts of a message across multiple pictures, like a slideshow
 * draw various icons in the whitespace of an image
 * draw black lines from a point on a circle to other points on the circle to make an image, [inspired by this video](https://youtu.be/-S_l8GGxOhU?t=2m41s)
+* add a long beard on every face
+* surround the face, and cover the background with a white and black zigzag
+* turns your face into a bunch of words
+* turns image into black and white
+* adds a color filter based on most common color in picture
+* combines average color of two pictures
