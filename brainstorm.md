@@ -63,3 +63,9 @@
 * tie dye pattern over picture
 * twists face in spiral
 * makes face square
+* The nearer to the edges, the darker the pixel
+* The photo looks like a painting
+* The photo is distorted by parallel waves
+* The right side is mirrored to the left, and the left to the right
+* Fade from color to B & W
+* Fades from red to blue
