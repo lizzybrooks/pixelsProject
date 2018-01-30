@@ -33,4 +33,4 @@
 * draw a tin foil hat above every face to protect against incoming alien electromagnetic waves <|:^)
 * hide parts of a message across multiple pictures, like a slideshow
 * draw various icons in the whitespace of an image
-* draw black lines from edge of circle to other points on circle to make an image, [inspired by this video](https://youtu.be/-S_l8GGxOhU?t=2m41s)
+* draw black lines from a point on a circle to other points on the circle to make an image, [inspired by this video](https://youtu.be/-S_l8GGxOhU?t=2m41s)
