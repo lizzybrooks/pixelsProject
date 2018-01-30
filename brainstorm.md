@@ -46,3 +46,9 @@
 * if there is a face, makes the face into a balloon, floating up
 * makes the colors pastel
 * changes the color of person's iris'
+* isolates face
+* change color of picture (not just hue shift or colorize)
+* makes nose bigger
+* deep-fryer
+* places pieces of the picture in different locations
+* makes a smile into a frown
