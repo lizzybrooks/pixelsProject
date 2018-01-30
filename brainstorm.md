@@ -52,3 +52,8 @@
 * deep-fryer
 * places pieces of the picture in different locations
 * makes a smile into a frown
+* limits the color scheme of a photo
+* makes a photo into basic outlines of prominent shapes
+* alters certain pixels of a photo by color to act as a code
+* alters colors to a bright/pastel/dark palette
+* customize sky/background
