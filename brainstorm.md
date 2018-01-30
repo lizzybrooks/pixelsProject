@@ -22,7 +22,7 @@
 * inverted colors
 * polaroid filter, mainly saturation and frames
 * polarizing filter
-* overlay two pictures, varying strengths\
+* overlay two pictures, varying strengths
 * swirls image in a spiral
 * inverts colors
 * saturates the image
