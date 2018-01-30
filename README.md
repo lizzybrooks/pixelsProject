@@ -33,7 +33,10 @@ The full rubric is online at this [link](https://docs.google.com/spreadsheets/d/
 1) Choose a prompt from the list of brainstorms (yours or someone else's) and "solve" it in the simplest way possible. Use a single image (or video) for testing. Make the desired effect happen. Try it in a couple of ways. 
 
 ### Stage 2: Program Implementation
-1) Read about object-oriented program design (resources will be provided).
+1) Learn about object-oriented program design (we'll discuss in class, also, see below).
+    * Video for p5/JavaScript programmers [here](https://www.youtube.com/watch?v=T-HGdc8L-7w&t=586s)
+    * Tutorial for Python programmers [here](https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/)
+    * [Documentation](https://processing.org/reference/class.html) of classes in Processing (Java), [Tutorial](https://processing.org/tutorials/objects/) on objects in Processing, [Tutorial](https://docs.oracle.com/javase/tutorial/java/javaOO/classes.html) on classes in Java. 
 2) Rewrite your filter using object structure, e.g. design a class and instantiate an object with a constructor. 
 3) Consider: what's the point of object-oriented programming? 
 
