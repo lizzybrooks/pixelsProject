@@ -29,3 +29,7 @@
 * overlay smaller versions of the image
 * change all the colors with blue into bright red
 * decrease the resolution
+* make the eyes glow when opening eyes
+* draw a tin foil hat above every face to protect against incoming alien electromagnetic waves <|:^)
+* hide parts of a message across multiple pictures, like a slideshow
+* draw various icons in the whitespace of an image
