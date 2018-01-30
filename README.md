@@ -5,8 +5,8 @@
 Create your own digital image filter by writing a program to manipulate the pixels of an image. Your filter should be generalized enough to work on arbitrary images, not just the training set. In other words, you should be able to hand off your program to someone else to try on their own photos.
 
 ### Assignment Rubric
-[link](https://docs.google.com/spreadsheets/d/1gjmgkMsPOTX1_vrfAiLvYJhuuomyxJPCz-fxnbw2QoQ/edit?usp=sharing)
 The project is worth 30 points. Write clear code with comments, cite sources, play and experiment. We'll cover all the technical requirements in class. Grading is lenient to encourage creativity and risk-taking over rote assignment completion. 
+The full rubric is online at this [link](https://docs.google.com/spreadsheets/d/1gjmgkMsPOTX1_vrfAiLvYJhuuomyxJPCz-fxnbw2QoQ/edit?usp=sharing).
 
 ### Possible Ideas:
 * A filter applied to a static image, such as the filters used by Instagram, Adobe Photoshop, and other apps.
