@@ -57,3 +57,9 @@
 * alters certain pixels of a photo by color to act as a code
 * alters colors to a bright/pastel/dark palette
 * customize sky/background
+* makes face translucent
+* blocks face out in various color depending on color of pixel
+* adds fur
+* tie dye pattern over picture
+* twists face in spiral
+* makes face square
