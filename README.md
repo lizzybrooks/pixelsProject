@@ -22,7 +22,7 @@ The full rubric is online at this [link](https://docs.google.com/spreadsheets/d/
 
 3) Try [this live image from webcam example](https://github.com/lizzybrooks/pixelsProject/blob/master/videoTester.js). Make some changes, such as searching for other features other than amount of red in the image.
 
-4) Play with [these experiments in computer vision](https://github.com/kylemcdonald/cv-examples). 
+4) Play with [these experiments in computer vision](https://github.com/kylemcdonald/cv-examples). This is a very useful library by Kyle McDonald that contains many, many face tracking examples!
 
 5) And with [this face-tracking example](https://github.com/auduno/clmtrackr). 
 
