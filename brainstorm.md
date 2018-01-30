@@ -40,3 +40,9 @@
 * turns image into black and white
 * adds a color filter based on most common color in picture
 * combines average color of two pictures
+* displays background of weather depending on temperature
+* when the screen is tapped, certain colors are more saturated
+* moves each row of pixels a different amount
+* if there is a face, makes the face into a balloon, floating up
+* makes the colors pastel
+* changes the color of person's iris'
