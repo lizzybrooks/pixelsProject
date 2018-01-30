@@ -30,7 +30,7 @@ The project is worth 30 points. Write clear code with comments, cite sources, pl
 
 
 ### Stage 1: Prototyping
-1) Choose a prompt from the list of brainstorms (yours or someone else's) and "solve" it in the simplest way possible. Use a single image (or video) for testing. Make the desired effect happen.
+1) Choose a prompt from the list of brainstorms (yours or someone else's) and "solve" it in the simplest way possible. Use a single image (or video) for testing. Make the desired effect happen. Try it in a couple of ways. 
 
 ### Stage 2: Program Implementation
 1) Read about object-oriented program design (resources will be provided).
