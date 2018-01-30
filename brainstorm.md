@@ -74,4 +74,4 @@
 * make a face pop up when you look into the camera
 * code for a crayon picture
 * make a little cool flag in the capera
-* make a reall cool glove on your filter
+* make a really cool glove on your filter
