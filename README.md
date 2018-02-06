@@ -43,7 +43,7 @@ The full rubric is online at this [link](https://docs.google.com/spreadsheets/d/
 ### Stage 3: Test and Debug
 1) Add more images to your test set.
 2) Debug your program so it works with a wide range of images.
-3) Discuss boundary cases and how to identify them.
+3) Discuss [boundary cases](https://erictleung.com/corners-edges-and-the-boundary) and how to identify them.
 4) Test for boundary cases and document the boundaries of your application.
 
 ### Stage 4: Add Functionality, Enhance
