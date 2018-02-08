@@ -10,3 +10,4 @@ Use this format and link to either a gist or a full repository, depending on how
 * Connor Nakamura [transparent color overlay](https://gist.github.com/connornakamura/07c79f79a78046d1fba9fae9983e4e0e)
 * Alexander Yu [rgb color filter](https://gist.github.com/0AYU0/d66cd148075fe8ef30ea6883e97d319b)
 * Nathan Ho [black strings filter](https://github.com/thetrustedwizard/LineArtFilter)
+* Jake Lam: [three color filter](https://gist.github.com/jakelamjakelam/c1ae83aaf6d6e35f0ace0b8419636821)
