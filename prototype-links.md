@@ -9,3 +9,4 @@ Use this format and link to either a gist or a full repository, depending on how
 * Sammy Puckett: [image combination filter](https://gist.github.com/sammypuckett/e7780bf3cdbd4d5737fa7081919364b0)
 * Connor Nakamura [transparent color overlay](https://gist.github.com/connornakamura/07c79f79a78046d1fba9fae9983e4e0e)
 * Alexander Yu [rgb color filter](https://gist.github.com/0AYU0/d66cd148075fe8ef30ea6883e97d319b)
+* Nathan Ho [black strings filter](https://github.com/thetrustedwizard/LineArtFilter)
