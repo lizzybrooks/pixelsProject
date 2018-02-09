@@ -14,3 +14,4 @@ Use this format and link to either a gist or a full repository, depending on how
 * Sam Fine: [Pixelate Filter](https://gist.github.com/SamTheManSam/c8c33e9be04eccb79923497cc2c33c8e)
 * Christie Lum: [Temperature Filter](https://github.com/Chr1sL/PixelProjectDraft/blob/master/sketch2.js)
 * Gabriel Juarez: [Cut and Paste](https://gist.github.com/guyjayy/3d297a2d9bfdbdfa878c69bc70df1636)
+* Kevin Lin:[satruation filter](https://github.com/kelin6868/heycoolpicture/tree/prototype)
