@@ -13,3 +13,4 @@ Use this format and link to either a gist or a full repository, depending on how
 * Jake Lam: [three color filter](https://gist.github.com/jakelamjakelam/c1ae83aaf6d6e35f0ace0b8419636821)
 * Sam Fine: [Pixelate Filter](https://gist.github.com/SamTheManSam/c8c33e9be04eccb79923497cc2c33c8e)
 * Christie Lum: [Temperature Filter](https://github.com/Chr1sL/PixelProjectDraft/blob/master/sketch2.js)
+* Gabriel Juarez: [Cut and Paste](https://gist.github.com/guyjayy/3d297a2d9bfdbdfa878c69bc70df1636)
