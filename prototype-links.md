@@ -11,3 +11,4 @@ Use this format and link to either a gist or a full repository, depending on how
 * Alexander Yu [rgb color filter](https://gist.github.com/0AYU0/d66cd148075fe8ef30ea6883e97d319b)
 * Nathan Ho [black strings filter](https://github.com/thetrustedwizard/LineArtFilter)
 * Jake Lam: [three color filter](https://gist.github.com/jakelamjakelam/c1ae83aaf6d6e35f0ace0b8419636821)
+* Sam Fine: [Pixelate Filter](https://gist.github.com/SamTheManSam/c8c33e9be04eccb79923497cc2c33c8e)
