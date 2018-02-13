@@ -57,9 +57,9 @@ The full rubric is online at this [link](https://docs.google.com/spreadsheets/d/
 5) etc. 
 
 ### Stage 6: Publishing
-1) Learn about Github workflow.
+1) Learn about Github workflow and by that I mean learning about branches and merging.
 2) Host your application via Github pages OR package your application so that it can be downloaded and installed. 
-3) Link to your web app or download page via the final projects page in this repository (coming soon). 
+3) Link to your web app or download page by adding a link to the index.html file. 
 
 
 
